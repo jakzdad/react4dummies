@@ -3,7 +3,8 @@ import './index.css';
 
 const SeriesListItem = ({ series }) => (
     <li>
-        {series.show.name}</li>
+            {series.show.name} 
+   </li>
 )
 const SeriesList = (props) => {
     return (
